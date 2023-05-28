@@ -118,7 +118,7 @@ main h1 {
 
 /* ---- Contatos */
 #contact_container {
-    margin: 0 auto;
+    margin-left: 0;
     padding: 1rem 0;
 }
 
@@ -156,7 +156,6 @@ footer {
 @media screen and (min-width: 430px) {
     header h1 {
         font-size: 2rem;
-        color:  var(--text-white); 
     }
     
     #page_logo {
