@@ -224,6 +224,11 @@ footer {
 }
 
 @media screen and (min-width: 1550px) {
+    #contact_container {
+        margin: 0 auto;
+        padding: 1rem 0;
+    }
+    
     .contact {
         display: inline-block;
     }
